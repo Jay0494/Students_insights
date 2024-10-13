@@ -8,10 +8,8 @@ To achieve these insights, **Power BI** was employed as the core analytical tool
 The findings from this analysis aim to inform educators, policymakers, and parents about the critical factors affecting student outcomes and suggest actionable strategies for improvement.
 
 
-
-
-
 ### Insights from the visuals in the PDF:
+![Screenshot_20241013-203114_Power BI](https://github.com/user-attachments/assets/89d1881f-3099-4fa2-b511-0cc20d95beb4)
 
 1. **Student Performance Trends**:
    - **32.5%** of students showed **performance decline**, while **67.5%** showed progress.
@@ -20,6 +18,8 @@ The findings from this analysis aim to inform educators, policymakers, and paren
 
 2. **Internet Access**:
    - **92.4%** of students have internet access, while **7.6%** do not. This indicates strong access to digital learning resources for most students.
+
+![Screenshot_20241013-203127_Power BI](https://github.com/user-attachments/assets/cce5b9b5-a448-4186-a2a2-c7075b40e521)
 
 3. **Student Motivation**:
    - Motivation is mostly **medium (52.44%)**, with **low (27.83%)** and **high (19.73%)** levels representing smaller portions of the population. 
@@ -30,6 +30,7 @@ The findings from this analysis aim to inform educators, policymakers, and paren
 5. **Attendance**:
    - Attendance levels are distributed between **good (27.11%)**, **satisfactory (23.11%)**, and **poor (17.66%)**. Very few students have **excellent (14.76%)** or **very good (17.37%)** attendance.
 
+![Screenshot_20241013-203137_Power BI](https://github.com/user-attachments/assets/670d582a-84fa-492e-bba9-67906c882743)
 6. **Sleep Patterns**:
    - Majority of students experience **adequate sleep (60.11%)**, while **30.78%** get short sleep and small percentages oversleep (4.73%) or have insufficient sleep (4.39%).
 
@@ -39,6 +40,8 @@ The findings from this analysis aim to inform educators, policymakers, and paren
 8. **Family Income and Resources**:
    - **39.51%** of students come from **low-** or **medium-income** families, while **20.98%** come from **high-income** families.
    - Access to educational resources is mostly **medium (49.59%)**, with **high (31.02%)** and **low (19.39%)** access being less common.
+
+![Screenshot_20241013-203147_Power BI](https://github.com/user-attachments/assets/596a352e-47ee-4777-bc1e-cba56245178b)
 
 9. **Parental Involvement**:
    - Parental involvement is mostly **medium (50.60%)**, followed by **high (30.92%)** and **low (18.48%)**.
@@ -50,7 +53,6 @@ The findings from this analysis aim to inform educators, policymakers, and paren
    - Tutoring is varied, with **32.85%** of students attending **2 sessions** per week, while **20.69%** attend **no sessions**. Others attend varying frequencies, including up to **7 sessions (1.78%)**.
 
 ---
-
 ### Recommendations:
 
 1. **Address Performance Declines**:
@@ -77,5 +79,3 @@ The findings from this analysis aim to inform educators, policymakers, and paren
 
 8. **Internet Access for All**:
    - Though the vast majority of students have internet access, ensuring the **7.6%** who do not are connected is important, especially for remote learning and access to digital resources.
-
-By focusing on these areas, the overall performance and well-being of students can be significantly improved.
